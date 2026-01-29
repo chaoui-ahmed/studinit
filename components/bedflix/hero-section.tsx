@@ -57,17 +57,21 @@ export function HeroSection({ onPlayClick }: HeroSectionProps) {
           </motion.div>
 
           {/* Title */}
-          <motion.h1
+          <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4, duration: 0.6 }}
-            className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-4 tracking-tight"
+            className="mb-4"
           >
-            <span className="text-[#E50914]">BEDFLIX</span>
+            <img 
+              src="/images/bedflixlogo.png"
+              alt="BEDFLIX"
+              className="h-16 md:h-24 lg:h-32 w-auto object-contain"
+            />
             <span className="block text-3xl md:text-4xl lg:text-5xl font-light mt-2 text-white/90">
               The Presidential Cut
             </span>
-          </motion.h1>
+          </motion.div>
 
           {/* Subtitle */}
           <motion.p
