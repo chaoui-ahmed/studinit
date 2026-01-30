@@ -1,31 +1,35 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Voir https://help.github.com/articles/ignoring-files/ pour plus d'informations.
 
-# --- DÉPENDANCES ET BUILDS ---
+# Dépendances
 /node_modules
+
+# Next.js
 /.next/
 /out/
+
+# Production
 /build
 
-# --- DEBUG ET LOGS ---
+# Debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# --- SÉCURITÉ ET ENVIRONNEMENT ---
+# Fichiers d'environnement
 .env*
+
+# Vercel
 .vercel
+
+# TypeScript
 *.tsbuildinfo
 next-env.d.ts
 
-# --- SÉCURITÉ WHATSAPP (PERSONNALISÉ) ---
-# Empêche d'envoyer tes conversations privées sur GitHub
+# --- SÉCURITÉ WHATSAPP ---
+# On ignore les fichiers textes privés
 *.txt
 
-# Empêche d'envoyer ton script de génération local
+# On ignore le script Python local
 generate_graph.py
 
-# Empêche d'envoyer les données brutes JSON si tu veux rester discret
-# (Note: Si tu veux que le graphique s'affiche sur ton site en ligne, 
-# enlève la ligne suivante)
-# components/bedflix/chat_data.json
