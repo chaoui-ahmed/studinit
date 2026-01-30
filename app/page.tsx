@@ -5,6 +5,8 @@ import { HeroSection } from "@/components/bedflix/hero-section";
 import { CastSection } from "@/components/bedflix/cast-section";
 import { ChallengesSection } from "@/components/bedflix/challenges-section";
 import { AnalyticsSection } from "@/components/bedflix/analytics-section";
+// 1. AJOUT DE L'IMPORT ICI
+import { TimelineSection } from "@/components/bedflix/timeline-section"; 
 import { EpisodesSection } from "@/components/bedflix/episodes-section";
 import { RecommendationsSection } from "@/components/bedflix/recommendations-section";
 import { Footer } from "@/components/bedflix/footer";
@@ -32,6 +34,8 @@ export default function BedflixPage() {
         <CastSection />
         <ChallengesSection />
         <AnalyticsSection />
+        {/* 2. AJOUT DU COMPOSANT ICI */}
+        <TimelineSection /> 
         <EpisodesSection />
         <RecommendationsSection />
       </div>
