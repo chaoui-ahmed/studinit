@@ -1,0 +1,446 @@
+[
+  {
+    "displayDate": "Sep 01",
+    "volume": 5,
+    "trend": 0.0,
+    "isDead": true
+  },
+  {
+    "displayDate": "Sep 08",
+    "volume": 20,
+    "trend": 0.0,
+    "isDead": true
+  },
+  {
+    "displayDate": "Sep 15",
+    "volume": 34,
+    "trend": 23.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Sep 22",
+    "volume": 36,
+    "trend": 34.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Sep 29",
+    "volume": 46,
+    "trend": 34.5,
+    "isDead": false
+  },
+  {
+    "displayDate": "Oct 06",
+    "volume": 22,
+    "trend": 29.5,
+    "isDead": false
+  },
+  {
+    "displayDate": "Oct 13",
+    "volume": 14,
+    "trend": 26.5,
+    "isDead": true
+  },
+  {
+    "displayDate": "Oct 20",
+    "volume": 24,
+    "trend": 22.5,
+    "isDead": false
+  },
+  {
+    "displayDate": "Oct 27",
+    "volume": 30,
+    "trend": 41.5,
+    "isDead": false
+  },
+  {
+    "displayDate": "Nov 03",
+    "volume": 98,
+    "trend": 50.5,
+    "isDead": false
+  },
+  {
+    "displayDate": "Nov 10",
+    "volume": 50,
+    "trend": 53.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Nov 17",
+    "volume": 34,
+    "trend": 61.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Nov 24",
+    "volume": 62,
+    "trend": 157.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Dec 01",
+    "volume": 482,
+    "trend": 187.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Dec 08",
+    "volume": 170,
+    "trend": 211.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Dec 15",
+    "volume": 130,
+    "trend": 215.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Dec 22",
+    "volume": 78,
+    "trend": 100.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Dec 29",
+    "volume": 22,
+    "trend": 76.5,
+    "isDead": false
+  },
+  {
+    "displayDate": "Jan 05",
+    "volume": 76,
+    "trend": 59.5,
+    "isDead": false
+  },
+  {
+    "displayDate": "Jan 12",
+    "volume": 62,
+    "trend": 48.5,
+    "isDead": false
+  },
+  {
+    "displayDate": "Jan 19",
+    "volume": 34,
+    "trend": 74.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Jan 26",
+    "volume": 124,
+    "trend": 81.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Feb 02",
+    "volume": 104,
+    "trend": 97.5,
+    "isDead": false
+  },
+  {
+    "displayDate": "Feb 09",
+    "volume": 128,
+    "trend": 171.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Feb 16",
+    "volume": 331,
+    "trend": 234.2,
+    "isDead": false
+  },
+  {
+    "displayDate": "Feb 23",
+    "volume": 374,
+    "trend": 229.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Mar 02",
+    "volume": 83,
+    "trend": 209.5,
+    "isDead": false
+  },
+  {
+    "displayDate": "Mar 09",
+    "volume": 50,
+    "trend": 154.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Mar 16",
+    "volume": 109,
+    "trend": 107.5,
+    "isDead": false
+  },
+  {
+    "displayDate": "Mar 23",
+    "volume": 188,
+    "trend": 115.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Mar 30",
+    "volume": 116,
+    "trend": 125.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Apr 06",
+    "volume": 90,
+    "trend": 138.5,
+    "isDead": false
+  },
+  {
+    "displayDate": "Apr 13",
+    "volume": 160,
+    "trend": 93.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Apr 20",
+    "volume": 9,
+    "trend": 66.5,
+    "isDead": true
+  },
+  {
+    "displayDate": "Apr 27",
+    "volume": 7,
+    "trend": 48.0,
+    "isDead": true
+  },
+  {
+    "displayDate": "May 04",
+    "volume": 16,
+    "trend": 21.5,
+    "isDead": true
+  },
+  {
+    "displayDate": "May 11",
+    "volume": 54,
+    "trend": 27.2,
+    "isDead": false
+  },
+  {
+    "displayDate": "May 18",
+    "volume": 32,
+    "trend": 30.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "May 25",
+    "volume": 18,
+    "trend": 35.8,
+    "isDead": true
+  },
+  {
+    "displayDate": "Jun 01",
+    "volume": 39,
+    "trend": 29.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Jun 08",
+    "volume": 30,
+    "trend": 42.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Jun 15",
+    "volume": 81,
+    "trend": 38.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Jun 22",
+    "volume": 5,
+    "trend": 29.8,
+    "isDead": true
+  },
+  {
+    "displayDate": "Jun 29",
+    "volume": 3,
+    "trend": 30.5,
+    "isDead": true
+  },
+  {
+    "displayDate": "Jul 06",
+    "volume": 33,
+    "trend": 13.2,
+    "isDead": false
+  },
+  {
+    "displayDate": "Jul 13",
+    "volume": 12,
+    "trend": 14.2,
+    "isDead": true
+  },
+  {
+    "displayDate": "Jul 20",
+    "volume": 9,
+    "trend": 20.0,
+    "isDead": true
+  },
+  {
+    "displayDate": "Jul 27",
+    "volume": 26,
+    "trend": 25.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Aug 03",
+    "volume": 53,
+    "trend": 25.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Aug 10",
+    "volume": 15,
+    "trend": 26.2,
+    "isDead": true
+  },
+  {
+    "displayDate": "Aug 17",
+    "volume": 11,
+    "trend": 55.2,
+    "isDead": true
+  },
+  {
+    "displayDate": "Aug 24",
+    "volume": 142,
+    "trend": 120.2,
+    "isDead": false
+  },
+  {
+    "displayDate": "Aug 31",
+    "volume": 313,
+    "trend": 193.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Sep 07",
+    "volume": 309,
+    "trend": 267.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Sep 14",
+    "volume": 307,
+    "trend": 294.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Sep 21",
+    "volume": 250,
+    "trend": 315.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Sep 28",
+    "volume": 397,
+    "trend": 253.2,
+    "isDead": false
+  },
+  {
+    "displayDate": "Oct 05",
+    "volume": 59,
+    "trend": 193.2,
+    "isDead": false
+  },
+  {
+    "displayDate": "Oct 12",
+    "volume": 67,
+    "trend": 155.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Oct 19",
+    "volume": 97,
+    "trend": 78.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Oct 26",
+    "volume": 92,
+    "trend": 64.5,
+    "isDead": false
+  },
+  {
+    "displayDate": "Nov 02",
+    "volume": 2,
+    "trend": 63.8,
+    "isDead": true
+  },
+  {
+    "displayDate": "Nov 09",
+    "volume": 64,
+    "trend": 48.2,
+    "isDead": false
+  },
+  {
+    "displayDate": "Nov 16",
+    "volume": 35,
+    "trend": 37.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Nov 23",
+    "volume": 50,
+    "trend": 49.2,
+    "isDead": false
+  },
+  {
+    "displayDate": "Nov 30",
+    "volume": 48,
+    "trend": 42.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Dec 07",
+    "volume": 35,
+    "trend": 43.8,
+    "isDead": false
+  },
+  {
+    "displayDate": "Dec 14",
+    "volume": 42,
+    "trend": 34.0,
+    "isDead": false
+  },
+  {
+    "displayDate": "Dec 21",
+    "volume": 11,
+    "trend": 22.5,
+    "isDead": true
+  },
+  {
+    "displayDate": "Dec 28",
+    "volume": 2,
+    "trend": 14.8,
+    "isDead": true
+  },
+  {
+    "displayDate": "Jan 04",
+    "volume": 4,
+    "trend": 5.0,
+    "isDead": true
+  },
+  {
+    "displayDate": "Jan 11",
+    "volume": 3,
+    "trend": 3.5,
+    "isDead": true
+  },
+  {
+    "displayDate": "Jan 18",
+    "volume": 5,
+    "trend": 5.0,
+    "isDead": true
+  },
+  {
+    "displayDate": "Jan 25",
+    "volume": 8,
+    "trend": 0.0,
+    "isDead": true
+  }
+]
